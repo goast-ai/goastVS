@@ -9,7 +9,7 @@ All rights reserved.
 <table style="width: 100%; border-style: none;"><tr>
 <td style="width: 140px; text-align: center;"><a href="https://marketplace.visualstudio.com/items?itemName=goast-ai.goast"><img width="128px" src="docs/images/goast.png" alt="Goast logo"/></a></td>
 <td>
-<strong>You AI powered Diff Generator</strong><br />
+<strong>Your AI powered Text-to-Diff Coding Assistant</strong><br />
 <i>Ask Goast for changes to your application code. Goast will analyze your project and suggest code changes.<br />
 <strong><a href="https://marketplace.visualstudio.com/items?itemName=goast-ai.goast"><img src="docs/images/download.png" alt="Download now!"/></a></strong></i><br>
 </td>
