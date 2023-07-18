@@ -98,7 +98,7 @@ If you’re experiencing issues with the extension, feel free to reach out to [s
 
 ## License
 
-By downloading and using the goastVS extension, you agree to the Privacy Policy and Terms of Service which can be found at www.goast.ai.
+By downloading and using the goastVS extension, you agree to the [Privacy Policy](https://www.termsfeed.com/live/b4135711-b392-40b7-9894-38b6e5bca482) and [Terms of Service](https://www.termsfeed.com/live/cb1d6364-6249-40f1-939c-3e5935eaa7fc).
 
 License for this repository:
 
