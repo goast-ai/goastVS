@@ -25,6 +25,8 @@ We are searching for beta testers who are currently working on a project and wou
 
 ## Getting Started
 
+Watch the [Getting Started Video](https://www.youtube.com/watch?v=-N1Hk6tRU0M) or follow the instructions below.
+
 Step 1: Add the extension to VS Code.
 
 Step 2: Click the goast icon from the side nav.
