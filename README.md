@@ -17,7 +17,7 @@ All rights reserved.
 
 goastVS is a VS Code extension built by [goast.ai](https://goast.ai) - a company that’s using LLM technology to automate coding tasks so you can focus on building great software.
 
-Prompt the tool to fix bugs, integrate external libraries, and automate coding tasks right in VS Code. The model will output a series of steps that satisfy the prompt. From there a single click will generate reliable, accurate code diffs for each step.
+Prompt the tool to fix bugs, integrate external libraries, and automate coding tasks right in VS Code. The model will output a series of steps that satisfy the prompt. From there a single click will quickly generate code diffs for each step.
 
 ## Become a Beta Tester and get free tokens!!
 
