@@ -31,7 +31,7 @@ Step 1: Add the extension to VS Code.
 
 Step 2: Click the goast icon from the side nav.
 
-Step 3: Add your OpenAI API key to the input provided. If you want to change this later just search “goast” in the VS Code Settings window and change the API key in the corresponding input.
+Step 3: Add your OpenAI API key by clicking "Go to Settings" and pasting it into the field provided. If you want to change this later just search “goast” in the VS Code Settings window and change the API key in the corresponding input. **A GPT4 API key is highly recommended.** 
 
 Step 4: After you API key has been added, click “RUN GOAST”. This will generate a description of your app based on the relevant files in your codebase.
 
@@ -41,6 +41,7 @@ Step 5: From there you can start prompting the tool to perform coding tasks. For
 
 Better prompts generate better results. Being specific about what you want to achieve will yield more detailed steps and more accurate code diffs.
 
+- **It's highly recommended that you use a GPT4 API key.** Using GPT3.5 may result in errors from the model and a poor experience. If you don't have access to GPT4, feel free to apply as a beta tester (details above).
 -   Instead of asking the bot “why isn’t something working?” give it a directive. You’ll get better results if you actually tell the bot to do something, like “I’m seeing *this*, but I want it to do *that*.”
 -   For best results, install the VS Code extensions for any languages that your project is using. This helps the model understand any references between files.
 - The tool works best when your project is split into smaller files instead of a single file that houses all your code.
@@ -93,6 +94,7 @@ In the VS Code Settings window, search “goast” to display the following sett
 -   You’ll get better results if your project is split into smaller files instead of a single file that houses all your code.
 -   Like other AI coding tools on the market, goastVS will sometimes hallucinate or give results that aren’t quite right when it’s working in unfamiliar territory or doesn’t have enough context. We’ve found that even when the tool is a bit wrong, it still gets us moving in the right direction. That’s why we added the step editing functionality - so you can correct the tool when it’s wrong.
 -   Error code 429 means you’ve hit your OpenAI API key’s cost limit for usage.
+-   Error code 503 means OpenAI is at capacity and can't handle your request at this time. 
 
 ## Get Support
 
