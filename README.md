@@ -52,6 +52,6 @@ Or email support@goast.ai
 
 ## License
 
-By downloading and using the goastVS extension, you agree to the [Privacy Policy](https://www.termsfeed.com/live/b4135711-b392-40b7-9894-38b6e5bca482) and [Terms of Service](https://www.termsfeed.com/live/cb1d6364-6249-40f1-939c-3e5935eaa7fc).
+By downloading and using the goastVS extension, you agree to the [Privacy Policy](https://goast.ai/privacy) and [Terms of Service](https://goast.ai/terms).
 
 Copyright © GOAST INC. All rights reserved.
