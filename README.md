@@ -4,7 +4,7 @@ Copyright © GOAST INC.
 All rights reserved.
 -->
 
-# goastVS: A Text-to-Code Extension
+# goastVS: A Task Driven Text-to-Code Extension
 
 <table style="width: 100%; border-style: none;"><tr>
 <td style="width: 140px; text-align: center;"><a href="https://marketplace.visualstudio.com/items?itemName=goast-ai.goast"><img width="128px" src="docs/images/goast.png" alt="Goast logo"/></a></td>
